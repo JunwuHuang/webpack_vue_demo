@@ -1,4 +1,5 @@
 # 使用webpack搭建vuejs开发环境(vue,vue-router,babel,babel-polyfill)
+repo地址: https://github.com/JunwuHuang/webpack_vue_demo
 
 ## 目录
 + [前言](#前言)
